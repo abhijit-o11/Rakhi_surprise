@@ -1,0 +1,6 @@
+{
+  "name": "Rakshabandhan Surprise",
+  "description": "An interactive, heartfelt Rakshabandhan surprise website for sister with interactive gift boxes and handwritten letter.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
